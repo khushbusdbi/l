@@ -10,7 +10,7 @@ body {
 
 /* Styling Heart Container */
 div {
-    position: center;
+    position: relative;
     text-align: center;
 }
 
