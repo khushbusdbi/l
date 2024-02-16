@@ -29,8 +29,8 @@ div {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 20px;
-    color: white;
+    font-size: 50px;
+    color: brown;
     text-align: center;
     width: 100%; /* Make sure text spans the entire width */
 }
